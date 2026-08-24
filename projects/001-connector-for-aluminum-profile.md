@@ -10,6 +10,8 @@
 
 ![Connector for aluminum profile](001-connector-for-aluminum-profile.jpg)
 
+![Connector for aluminum profile 2](001-connector-for-aluminum-profile-2.jpg)
+
 ## Notes
 
 (TBD — key takeaways from the tutorial will go here: connector types, how to choose them, assembly tips.)
